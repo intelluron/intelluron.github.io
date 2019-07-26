@@ -77,8 +77,8 @@ body {
 }
 
 .header-content img {
-  width: 30%;
-  min-width:200px;
+  width: 20%;
+  min-width:100px;
   display: left;
 }
 
